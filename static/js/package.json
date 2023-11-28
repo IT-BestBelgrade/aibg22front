@@ -1,0 +1,17 @@
+{
+    "name": "aibg-belgrade-5.0",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": "^3.6.1",
+        "lodash": "^4.17.21",
+        "popper.js": "^1.14.6",
+        "qs": "^6.11.2"
+    },
+    "devDependencies": {
+        "parcel": "^2.10.3"
+    },
+    "scripts": {
+        "build": "parcel build index.html --public-url ./dist/",
+        "watch": "parcel index.html"
+    }
+}

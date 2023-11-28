@@ -1,0 +1,3 @@
+static/js/node_modules/*
+static/js/.parcel-cache/*
+static/js/dist/*
